@@ -13,7 +13,7 @@ public class operator {
 		for(int i=1;i<11;i++)
 		{
 			int prod= num * i;
-			System.out.println("Table:  " + prod);
+			System.out.println("Table:  " + num+ "*"+i+"="+prod);
 		}
 	}
 	}
